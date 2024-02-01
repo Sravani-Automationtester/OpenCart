@@ -1,0 +1,52 @@
+20:44:11.074 [TestNG-tests-2] ERROR testCases.AccountRegistrationTest - Test Failed
+20:44:11.117 [TestNG-tests-2] DEBUG testCases.AccountRegistrationTest - debug logs...
+20:44:11.117 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - *****Finished AccountRegistartionTest*****
+20:44:21.126 [TestNG-tests-1] ERROR testCases.AccountRegistrationTest - Test Failed
+20:44:21.127 [TestNG-tests-1] DEBUG testCases.AccountRegistrationTest - debug logs...
+20:44:21.128 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - *****Finished AccountRegistartionTest*****
+20:45:27.387 [main] DEBUG testCases.AccountRegistrationTest - *******Application logs********
+20:45:27.394 [main] INFO  testCases.AccountRegistrationTest - *****starting AccountRegistartionTest*****
+20:45:27.672 [main] INFO  testCases.AccountRegistrationTest - *****Clicked on registration link*****
+20:45:28.459 [main] INFO  testCases.AccountRegistrationTest - *****Clicked on registartion link*****
+20:45:28.459 [main] INFO  testCases.AccountRegistrationTest - *****Entering customer details*****
+20:45:29.820 [main] ERROR testCases.AccountRegistrationTest - Test Failed
+20:45:29.820 [main] DEBUG testCases.AccountRegistrationTest - debug logs...
+20:45:29.820 [main] INFO  testCases.AccountRegistrationTest - *****Finished AccountRegistartionTest*****
+20:45:59.278 [main] DEBUG testCases.AccountRegistrationTest - *******Application logs********
+20:45:59.283 [main] INFO  testCases.AccountRegistrationTest - *****starting AccountRegistartionTest*****
+20:45:59.410 [main] INFO  testCases.AccountRegistrationTest - *****Clicked on registration link*****
+20:46:00.630 [main] INFO  testCases.AccountRegistrationTest - *****Clicked on registartion link*****
+20:46:00.631 [main] INFO  testCases.AccountRegistrationTest - *****Entering customer details*****
+20:46:01.920 [main] ERROR testCases.AccountRegistrationTest - Test Failed
+20:46:01.921 [main] DEBUG testCases.AccountRegistrationTest - debug logs...
+20:46:01.921 [main] INFO  testCases.AccountRegistrationTest - *****Finished AccountRegistartionTest*****
+20:46:10.043 [main] DEBUG testCases.AccountRegistrationTest - *******Application logs********
+20:46:10.044 [main] INFO  testCases.AccountRegistrationTest - *****starting AccountRegistartionTest*****
+20:46:10.159 [main] INFO  testCases.AccountRegistrationTest - *****Clicked on registration link*****
+20:46:11.196 [main] INFO  testCases.AccountRegistrationTest - *****Clicked on registartion link*****
+20:46:11.196 [main] INFO  testCases.AccountRegistrationTest - *****Entering customer details*****
+20:46:12.638 [main] ERROR testCases.AccountRegistrationTest - Test Failed
+20:46:12.638 [main] DEBUG testCases.AccountRegistrationTest - debug logs...
+20:46:12.638 [main] INFO  testCases.AccountRegistrationTest - *****Finished AccountRegistartionTest*****
+20:46:41.611 [main] DEBUG testCases.AccountRegistrationTest - *******Application logs********
+20:46:41.617 [main] INFO  testCases.AccountRegistrationTest - *****starting AccountRegistartionTest*****
+20:46:41.807 [main] INFO  testCases.AccountRegistrationTest - *****Clicked on registration link*****
+20:46:43.029 [main] INFO  testCases.AccountRegistrationTest - *****Clicked on registartion link*****
+20:46:43.029 [main] INFO  testCases.AccountRegistrationTest - *****Entering customer details*****
+20:46:44.431 [main] ERROR testCases.AccountRegistrationTest - Test Failed
+20:46:44.431 [main] DEBUG testCases.AccountRegistrationTest - debug logs...
+20:46:44.432 [main] INFO  testCases.AccountRegistrationTest - *****Finished AccountRegistartionTest*****
+20:46:53.215 [main] DEBUG testCases.AccountRegistrationTest - *******Application logs********
+20:46:53.215 [main] INFO  testCases.AccountRegistrationTest - *****starting AccountRegistartionTest*****
+20:46:53.340 [main] INFO  testCases.AccountRegistrationTest - *****Clicked on registration link*****
+20:46:54.306 [main] INFO  testCases.AccountRegistrationTest - *****Clicked on registartion link*****
+20:46:54.306 [main] INFO  testCases.AccountRegistrationTest - *****Entering customer details*****
+20:46:55.692 [main] ERROR testCases.AccountRegistrationTest - Test Failed
+20:46:55.692 [main] DEBUG testCases.AccountRegistrationTest - debug logs...
+20:46:55.692 [main] INFO  testCases.AccountRegistrationTest - *****Finished AccountRegistartionTest*****
+20:48:07.839 [TestNG-tests-1] DEBUG testCases.AccountRegistrationTest - *******Application logs********
+20:48:07.848 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - *****starting AccountRegistartionTest*****
+20:48:08.499 [TestNG-tests-2] DEBUG testCases.AccountRegistrationTest - *******Application logs********
+20:48:08.499 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - *****starting AccountRegistartionTest*****
+20:48:08.585 [TestNG-tests-1] INFO  testCases.AccountRegistrationTest - *****Clicked on registration link*****
+20:48:08.657 [TestNG-tests-2] INFO  testCases.AccountRegistrationTest - *****Clicked on registration link*****

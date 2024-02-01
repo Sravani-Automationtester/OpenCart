@@ -1,0 +1,22 @@
+13:31:17.881 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****Clicked on registration link*****
+13:31:20.851 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****Clicked on registartion link*****
+13:31:20.851 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****Entering customer details*****
+13:31:22.488 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test Failed
+13:31:22.488 [main] DEBUG testCases.TC_001_AccountRegistrationTest - debug logs...
+13:31:22.488 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****Finished AccountRegistartionTest*****
+13:33:59.081 [main] INFO  testCases.TC_002_LoginTest - ******Starting TC_002_Login Test*******
+13:33:59.086 [main] DEBUG testCases.TC_002_LoginTest - Capturing Application Debugger logs...
+13:33:59.221 [main] INFO  testCases.TC_002_LoginTest - Clicked on my account link on the home page
+13:34:00.754 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+13:34:00.755 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+13:34:01.108 [main] INFO  testCases.TC_002_LoginTest - Clicked on login button
+13:39:13.146 [main] INFO  testCases.TC_002_LoginTest - ******Starting TC_002_Login Test*******
+13:39:13.150 [main] DEBUG testCases.TC_002_LoginTest - Capturing Application Debugger logs...
+13:39:13.259 [main] INFO  testCases.TC_002_LoginTest - Clicked on my account link on the home page
+13:39:13.980 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+13:39:13.982 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+15:31:55.282 [main] INFO  testCases.TC_002_LoginTest - ******Starting TC_002_Login Test*******
+15:31:55.329 [main] DEBUG testCases.TC_002_LoginTest - Capturing Application Debugger logs...
+15:31:55.808 [main] INFO  testCases.TC_002_LoginTest - Clicked on my account link on the home page
+15:31:56.905 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+15:31:56.906 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
